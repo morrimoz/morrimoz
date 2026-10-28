@@ -2,7 +2,7 @@
 
 Applied AI / forward-deployed engineer in San Diego.
 
-I build automation, integrations and business systems.
+I build AI agents, automations and business systems.
 
 My work connects business workflows with software that can be run, reviewed and maintained.
 
